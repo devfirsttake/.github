@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <b>¡Hola, Somos EDIN! 👋</b>
+    <b>¡Hola, Somos DEV FIRST TAKE! 👋</b>
     <br>
     <br>
     Codeamos, creamos y compartimos proyectos de tecnología.<br>
